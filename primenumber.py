@@ -46,4 +46,4 @@ for num in range(2, n + 1):
             break
 
     if is_prime:
-        print(num, end=" ")
+        print(num, end=" ") 
