@@ -19,5 +19,4 @@ n = 1
 while f < 1000000000:
     print(n, "! =",  f)
     n = n +1
-    f = f * n
-    
+    f = f * n    
