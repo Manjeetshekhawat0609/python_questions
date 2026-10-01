@@ -34,3 +34,5 @@ A dedicated repository containing hands-on implementations, logic-building exerc
    ```bash
    git clone [https://github.com/Manjeetshekhawat0609/python_questions.git](https://github.com/Manjeetshekhawat0609/python_questions.git)
    cd python_questions
+
+Author- Manjeet Singh Shekhawat 
