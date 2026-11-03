@@ -1,6 +1,6 @@
 # Python Practice & Problem Solving 🐍
 
-A dedicated repository containing hands-on implementations, logic-building exercises, and problem sets in **Python**. This repository tracks my practical journey with core Python concepts, data handling, and foundational algorithmic problem-solving.
+A dedicated repository containing hands-on implementations, logic-building exercises, and problem sets in **Python**. This repository tracks my practical journey with core Python concepts, data handling, and foundational algorithmic problem-solving. 
 
 ---
 
